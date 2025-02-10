@@ -282,5 +282,18 @@ skills:
   - name: Sketch & Photoshop
     level: 60%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  awards:
+  title: Award
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#footer: >
+ # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
