@@ -286,16 +286,16 @@ awards:
  title: Rewards
  intro: >
  This is the wards hornor received from Royal Government of Cambodia.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-    picture: "mobile.png"
+#  assignments:
+ # - title: Velocity
+  #  link: "#hook"
+   # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #picture: "mobile.png"
   
-  - title: Royal Award from Cambodia King
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-    picture: "desktop.png
+  #- title: Royal Award from Cambodia King
+   # link: "#hook"
+    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #picture: "desktop.png
   
  # - title: Award-4
   #  link: "#"
