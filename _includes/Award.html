@@ -1,19 +1,21 @@
 {% assign awards = site.data.data.awards %}
 {% if awards %}
 <section class="section awards-section">
-
-  <h2 class="section-title">
+   <!--//icon-->
+   <h2 class="section-title">
     <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-    </span>
+    <!--   <i class="fas fa-wreath fa-stack-1x fa-inverse"></i> -->
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-solid fa-sun fa-stack-1x fa-inverse"></i>
+      
+         </span>
     {{ awards.title }}
   </h2>
 
   {% if awards.intro %}
   <div class="intro">
       <p>{{ awards.intro }}</p>
-  </div><!--//intro-->
+  </div><!--//intro--> 
   {% endif %}
 
   {% for award in awards.assignments %}
@@ -30,9 +32,20 @@
       {% if award.tagline %}
       - <span class="award-tagline">{{ award.tagline }}</span>
       {% endif %}
+       
+       {% if award.picture %}
+      <div class="award.picture">
+         <img src="./assets/images/{{ award.picture }}" style="max-width:1000px;  width:100%;"></div>
+       
+      {% endif %}
 
     </div><!--//item-->
-  {% endfor %}
 
+   
+  {% endfor %}
+   
+
+
+   
 </section><!--//section-->
 {% endif %}
