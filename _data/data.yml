@@ -283,7 +283,7 @@ skills:
     level: 60%
 
 awards:
- title: Award
+ title: Awards
  intro: >
    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -291,9 +291,9 @@ awards:
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
      
-  - title: Award-2
-   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+ # - title: Award-2
+ #  link: "#"
+  # tagline: "A responsive website template designed to help web developers/designers market their services."
 
  # - title: Award-3
   #  link: "#"
