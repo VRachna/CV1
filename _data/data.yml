@@ -283,21 +283,25 @@ skills:
     level: 60%
 
 awards:
- title: Rewards
- intro: You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
- assignments:
- - title: Progress 
- link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+   title: Rewards
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: Medal of honor-2
-   link: "#"
-   tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Medal of honor-3
+  - title: Tempo
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
  # - title: Award-4
   #  link: "#"
    # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
