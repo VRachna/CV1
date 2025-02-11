@@ -37,6 +37,12 @@
     </li>
     {% endif %}
 
+{% if sidebar.telegram2 %}
+    <li class="telegram2"><i class="fab fa-telegram"></i>
+      <a href="https://t.me/{{ sidebar.telegram2 }}" target="_blank">{{ sidebar.telegram2 }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
