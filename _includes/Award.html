@@ -19,11 +19,11 @@
   {% for award in awards.assignments %}
     <div class="item">
 
-      <span class="project-title">
+      <span class="award-title">
         {% if award.link %}
-        <a href="{{ project.link }}" target="_blank">{{ award.title }}</a>
+        <a href="{{ award.link }}" target="_blank">{{ award.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ award.title }}
         {% endif %}
       </span>
 
