@@ -284,8 +284,8 @@ skills:
 
 awards:
  title: Rewards
- intro: >
- This is the wards hornor received from Royal Government of Cambodia.
+# intro: >
+ #This is the wards hornor received from Royal Government of Cambodia.
 #  assignments:
  # - title: Velocity
   #  link: "#hook"
