@@ -292,10 +292,10 @@ awards:
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
     picture: "Award-1.jpg"
   
-  #- title: Royal Award from Cambodia King
-   # link: "#hook"
-    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-    #picture: "desktop.png
+  - title: Royal Award from Cambodia King
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    picture: "desktop.png
   
  # - title: Award-4
   #  link: "#"
