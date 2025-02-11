@@ -282,9 +282,9 @@ skills:
   - name: Sketch & Photoshop
     level: 60%
 
-awards:
-   title: Rewards
-  intro:  You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#awards:
+ #  title: Rewards
+  #intro: You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 #  assignments:
 #  - title: Velocity
  #   link: "#hook"
