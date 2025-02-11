@@ -286,10 +286,10 @@ awards:
    title: Rewards
   intro: You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
+  - title: Outstanding
+   # link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+  
  # - title: Award-4
   #  link: "#"
    # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
