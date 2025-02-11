@@ -20,12 +20,12 @@ sidebar:
   website: https://github.com/vrachna/cv1 # Include the full website URL, including "http://" or "https://".
   linkedin: vanrachna
   xing: vanrachna
-  #github: jekyll
+  github: jekyll
   telegram: @vrachna012 # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  #twitter: '@jekyllrb'
+  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
