@@ -15,24 +15,24 @@ sidebar:
   # Sidebar links
   email: vanrachna1@gmail.com
   phone: 012 28 14 95
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Asia/Phnom Penh # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://github.com/vrachna/cv1 # Include the full website URL, including "http://" or "https://".
   linkedin: vanrachna
   xing: vanrachna
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  #github: jekyll
+  telegram: @vrachna012 # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: Download my CV # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
