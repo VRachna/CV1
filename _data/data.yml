@@ -285,11 +285,12 @@ skills:
 awards:
  title: Rewards
  intro: Hello World This is the wards hornor received from Royal Government of Cambodia.
-#  assignments:
- # - title: Velocity
+
+ assignments:
+ title: Best Performance
   #  link: "#hook"
    # tagline: "A responsive website template designed to help startups promote, market and sell their products."
-    #picture: "mobile.png"
+ picture: "mobile.png"
   
   #- title: Royal Award from Cambodia King
    # link: "#hook"
