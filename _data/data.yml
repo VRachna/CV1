@@ -10,16 +10,16 @@ sidebar:
   # Profile information
   name: VAN Rachna
   tagline: Senior Manager Data and Compliance
-  avatar: Vanrachna.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: Vanrachna.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: vanrachna1@gmail.com
+  phone: 012 28 14 95
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  website: https://github.com/vrachna/cv1 # Include the full website URL, including "http://" or "https://".
+  linkedin: vanrachna
+  xing: vanrachna
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -37,10 +37,10 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Khmer
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
     - idiom: Spanish
@@ -49,11 +49,11 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Cycling
       link:
 
 
-    - item: Snowboarding
+    - item: Football
       link:
 
 
