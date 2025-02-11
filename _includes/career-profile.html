@@ -10,14 +10,12 @@
     {{ career-profile.title }}
   </h2>
 <style>
-  div {
-  border: 1px solid black;
-  padding: 10px;
+ div {
   text-align: justify;
 }
   </style>
-  <div class="summary" text-align: justify; >
-   <p align="justify" style="color: green;">{{ career-profile.summary | markdownify }}</p>
+  <div class="summary">
+   <p>{{ career-profile.summary | markdownify }}</p>
   </div><!--//summary-->
     
 </section><!--//section-->
