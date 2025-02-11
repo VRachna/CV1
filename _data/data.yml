@@ -285,8 +285,8 @@ skills:
 awards:
  title: Awards
  intro: >
-   You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
+ You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ assignments:
 #   - title: Award-1
  #   link: "#"
   #  tagline: "A responsive website template designed to help web developers/designers market their services."
