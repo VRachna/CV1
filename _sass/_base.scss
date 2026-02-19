@@ -59,8 +59,8 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 30px;
-    font-weight: 400;
+    font-size: 32px;
+    font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
   }
@@ -147,7 +147,7 @@ p {
       }
     }
   }
-
+  
   .interests-list {
     margin-bottom: 0;
     li {
@@ -166,15 +166,15 @@ p {
   padding: 60px;
   .section-title {
     text-transform: uppercase;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 20px;
+    font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
   }
   .section {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
 
   .experiences-section,
@@ -199,9 +199,9 @@ p {
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: bold;
+    font-weight: 500;
     flex: 75%;
-    }
+  }
  
   .time,
   .cert-url {
