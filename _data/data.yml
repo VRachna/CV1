@@ -98,14 +98,17 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  
+  - role: Senior Manager-Reporting and Compliance Manager
+    time: 2017 - Present
+    company: CCF, Cambodian Children's Fund
     details: |
-      "វគ្គសិក្សានេះត្រូវបានរៀបចំឡើងជាពិសេសសម្រាប់គ្រូបង្រៀននៅកម្ពុជា ក្នុងគោលបំណងពង្រឹងសមត្ថភាពអ្នកសិក្សានូវចំណេះដឹង និងជំនាញជាក់ស្តែងក្នុងការប្រើប្រាស់បច្ចេកវិទ្យាទំនាក់ទំនងឌីជីថល និងបញ្ញាសិប្បនិម្មិត (AI) 
-      ដើម្បីលើកកម្ពស់គុណភាពនៃការបង្រៀននិងរៀននៅក្នុងបរិបទបច្ចេកវិទ្យាឌីជីថល។ វគ្គសិក្សានេះនឹងជួយអ្នកឱ្យសម្របខ្លួនទៅនឹងបរិយាកាសអប់រំឌីជីថលដែលកំពុងផ្លាស់ប្តូរយ៉ាងឆាប់រហ័សប្រកបដោយប្រសិទ្ធភាព។"
-        - Bullet point
-        - Bullet point
+      support and coordinate the program administrative functions, reporting, and compliance, including database, In-Kind Donation, program administrative affairs, and collaboration with outside stakeholders (ministries, and other institutions) and ensure effectiveness and compliance with the Government procedures, policy, practice, etc.
+      - Program Administration (Government Reporting and Compliance): Manage CCF information and statistics (monthly, quarterly, bi-annually, and annually) and Liaise, negotiate and coordinate with national authorities with respect to the CCF project implementation matters.
+      - In-Kind Donation: Liaise between Donors and CCF staff members and provide support of information about documentation requirements.
+      - Government Liaison: Safely keep CCF official documents such as MoUs, project agreements, and ensure appropriate action is taken place timely (MoU renewal, fulfill the ministry requirements, etc.).
+      - Leadership and Management: Actively contribute to the program Administrative function and ensure strong relationships, cooperation and collaboration internally and externally in delivering the vision and mission of CCF. Provide support, coaching, training to the concerned team to work effectively.
+        
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
@@ -117,6 +120,79 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
+        
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+        
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+        
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+        
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+        
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+        
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
