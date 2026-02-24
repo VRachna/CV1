@@ -45,9 +45,7 @@ sidebar:
     - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
-
+  
   interests:
     title: Interests
     info:
@@ -59,7 +57,7 @@ sidebar:
       link:
 
 
-    - item: Cooking
+    - item: Volleyball
       link:
 
 
