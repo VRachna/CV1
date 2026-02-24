@@ -80,9 +80,8 @@ education:
         - Program Focus: Options include Master of Laws (LL.M) in Private Law/Public Administration and Master of Business in Management/Finance.
         - Dual Degrees: RULE provides dual master's degrees with French universities in Economics and Management.
         - Target Audience: Programs are designed for professionals seeking to enhance their skills in law, management, and international relations.
-        - Language: Courses are available in Khmer, English, or French.
-        
-  - degree:  Master Degree of Management Development
+        - Language: Courses are available in Khmer, English, or French.   
+  - degree: Master Degree of Management Development
     university: Norton University
     time: 2012 - 2014
     details: |
@@ -93,9 +92,8 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-        
-- degree:  Bachelor Degree of Computer Science and Engineering
-    university:  Royal University of Phnom Penh
+- degree: Bachelor Degree of Computer Science and Engineering
+    university: Royal University of Phnom Penh
     time: 2000 - 2004
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
