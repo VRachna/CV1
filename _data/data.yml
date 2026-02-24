@@ -73,7 +73,7 @@ education:
   title: Education
   info:
   - degree: Master Degree of Law
-    university: Royal University of Law and Economics
+    university: Royal University of Law and Economics(RULE)
     time: 2014 - 2016
     details: |
       The Royal University of Law and Economics (RULE) in Cambodia primarily offers Master's programs in Law, Public Administration, Economics, and Management, rather than a standalone Public Relations degree. The closest options for public communication and stakeholder management are under their Master in Public and International Law or Business Management programs.
@@ -81,19 +81,14 @@ education:
         - Dual Degrees: RULE provides dual master's degrees with French universities in Economics and Management.
         - Target Audience: Programs are designed for professionals seeking to enhance their skills in law, management, and international relations.
         - Language: Courses are available in Khmer, English, or French.   
+        
   - degree: Master Degree of Management Development
     university: Norton University
     time: 2012 - 2014
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
 - degree: Bachelor Degree of Computer Science and Engineering
-    university: Royal University of Phnom Penh
+    university: Royal University of Phnom Penh(RUPP)
     time: 2000 - 2004
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
